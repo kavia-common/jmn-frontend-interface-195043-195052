@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/jmn-frontend-interface-195043-195052/frontend_jmn"
+}
